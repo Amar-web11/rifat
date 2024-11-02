@@ -1,0 +1,19 @@
+h1{
+    text-align: center;
+    background-color: brown;
+    background-color: #123bf5;
+    background: #0ef;
+}
+input, button{
+    display: block;
+    margin: 10px auto;
+    padding: .5em;
+    box-shadow: 0 0 10px #0ef;
+
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(a.jpg);
+}
+
