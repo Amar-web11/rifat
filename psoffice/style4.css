@@ -1,0 +1,47 @@
+.mainmenu ul{
+    text-decoration: none; margin: 0 ; padding: 0; 
+}
+    .mainmenu li{
+        text-decoration: none;
+        display: inline-block;
+    }
+    .mainmenu li a{
+       color: #fff; padding: 15px; display: inline-block; text-decoration: none;
+    }
+    .mainmenu li a:hover{
+    background: #000;
+    }
+   
+    .mainmenu{
+      background-color: red; margin-top: -4px;
+    }
+
+    .warpper{
+        width: 960px;
+        margin: 0 auto;
+    }
+
+    .header img{
+        width: 100%;
+        height: auto; 
+    }
+
+    .maincontent{
+        overflow: hidden;
+    }
+
+    .Content{
+        width: 610px;
+        float: left;
+    }
+
+    .sidebar{
+        width: 300px;
+        float: right;
+    }
+
+    .footer{padding: 1px; background: #BBBB; margin: 10px;}
+
+    .slider-text{
+        margin-top: -83px;
+    }
